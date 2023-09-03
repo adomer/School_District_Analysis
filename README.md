@@ -31,8 +31,8 @@
 
   - Scores by school size
     - THS fell within the Medium(1000-2000) school size, so only this bin was affected as THS was the only school with data that was changed. The % Passing Math fell to 88% from 94%, the % Passing Reading fell to 91% form 97%, and the % Overall Passing fell to 85% from 91%.
-  
-![Scores by School Size](https://user-images.githubusercontent.com/64291905/142799987-d3c8623c-6a8d-46aa-aa76-f7d1e9ce3585.PNG)
+
+ ![Scores by School Size](https://user-images.githubusercontent.com/64291905/142799987-d3c8623c-6a8d-46aa-aa76-f7d1e9ce3585.PNG)
 
   - Scores by school type
     - THS was classified under "Charter School", so only this category was affected by the changes in data. % Passing math fell to 90% from 94%, % Passing Reading fell to 93% from 97%, and % Overall Passing fell to 87% from 90%.
