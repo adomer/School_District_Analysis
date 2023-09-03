@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-## Overview of the school district analysis: Explain the purpose of this analysis.
+## Overview of the school district analysis.
   The school board has notified Maria and her supervisor that there is some evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders. Maria asked us to replace the math and reading scores for Thomas High School with NaNs (Not-A-Number) while keeping the rest of the data intact. Maria asked to repeat the school district analysis and write up a report to describe how these changes affected the overall analysis following the change in scores for Thomas High School. This analysis will be done in different scopes, focusing on factors such as school spending, school size, and school type. This analysis is done using Python in Jupyter notebook.
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
